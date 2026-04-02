@@ -4,6 +4,7 @@
 ---
 
 ## Overview
+<img width="1440" height="444" alt="image" src="https://github.com/user-attachments/assets/7b59ef79-0fbf-418e-be22-65f35995bec2" />
 
 This repository contains the full audit report produced by **ECHO Student Voices Network**, a student-led accountability and advocacy initiative at FUTA.
 
@@ -14,6 +15,7 @@ It worked. A formal university memorandum was issued within **24 hours** of the 
 ---
 
 ## Key Findings
+<img width="1440" height="688" alt="image" src="https://github.com/user-attachments/assets/7895f8c8-6945-4d6e-97b5-80f6f2ac8d14" />
 
 | Metric | Result |
 |---|---|
@@ -35,6 +37,7 @@ It worked. A formal university memorandum was issued within **24 hours** of the 
 - Direct student accounts
 - Three-tier recommendations (Immediate / Short-Term / Long-Term)
 - Policy conclusion addressed to university administration
+<img width="1440" height="324" alt="image" src="https://github.com/user-attachments/assets/2110dc95-c731-4d55-a482-8372c666931e" />
 
 ---
 
